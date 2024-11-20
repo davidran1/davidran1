@@ -8,11 +8,12 @@
 
 My Projects :
 
-Project in course “Object-oriented programming"- **AnimalGame**
-</br>
+
 FullStack Project - **Smart Campus**
 </br>
 FullStack Project - **Order management system for events**
+</br>
+Project in course “Object-oriented programming"- **School management**
 - 📫 How to reach me **Davidazran014@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
